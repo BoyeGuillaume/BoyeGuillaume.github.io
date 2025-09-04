@@ -31,8 +31,6 @@ latest_posts:
 
 My name is *Guillaume Boyé* and I am currently attending my last year of master's degree at [EPFL](https://epfl.ch).
 
-This blog is dedicated to my research interests and other projects I am working on.
-
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
