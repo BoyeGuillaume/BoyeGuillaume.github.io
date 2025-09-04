@@ -1,24 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Guillaume Boyé",
+    "label": "Data Scientist, Computer Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "guillaume.boye@epfl.ch",
+    "phone": "+33 (0)6 31 48 77 43",
+    "url": "https://BoyeGuillaume.github.io",
+    "summary": "I am a french data scientist with knowledge in AI and low level computer science and performance optimization.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Github",
+        "username": "BoyeGuillaume",
+        "url": "https://github.com/BoyeGuillaume"
       }
     ]
   },
@@ -42,29 +35,29 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
+        "Men of the year 2014 by Time magazine"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "EPFL (École Polytechnique Fédérale de Lausanne), Lausanne, Switzerland",
+      "location": "Lausanne, Switzerland",
+      "url": "https://www.epfl.ch/",
+      "area": "Computer Science",
+      "studyType": "Bachelor's",
+      "startDate": "2020-09-01",
+      "endDate": "2022-06-30",
+      "score": "5.5",
+      "courses": [
+        "Linear Algebra &mdash; MATH-111(e)",
+        "Computer Architecture &mdash; CS-173, CS-307, CS-208, CS-209",
+        "Algorithms &mdash; CS-250, CS-251, CS-206",
+        "Artificial Intelligence &mdash; CS-320, CS-233(a)",
+        "Operating Systems &mdash; CS-323"
+      ]
     }
   ],
   "certificates": [
@@ -136,43 +129,81 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Data Science",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-chart-bar",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Big Data",
+        "Data Visualization",
+        "Data Mining",
+        "Statistics",
+        "Database Systems"
+      ]
+    },
+    {
+      "name": "Programming Language",
+      "level": "Master",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "Java",
+        "C/C++",
+        "ASM RISC-V/x86/MIPS/NVPTX",
+        "Rust",
+        "Kotlin",
+        "Scala",
+        "Bash",
+        "CUDA",
+        "CMake",
+        "Makefile"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "level": "Master",
+      "icon": "fa-solid fa-computer",
+      "keywords": [
+        "Networking",
+        "Algorithms",
+        "Data Structures",
+        "Operating Systems",
+        "Computer Architecture",
+        "Theory of Computation (Low)",
+        "Formal verification (Medium)"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (C1)",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Novice (A2)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Technology",
+      "icon": "fa-solid fa-globe",
+      "keywords": ["Aerospace", "Electronics", "Robotics", "Semiconductors"]
+    },
+    {
+      "name": "Sports",
+      "icon": "fa-solid fa-futbol",
+      "keywords": ["Hiking", "Climbing"]
     }
   ],
   "references": [

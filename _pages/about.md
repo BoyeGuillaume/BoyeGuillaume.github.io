@@ -29,7 +29,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is *Guillaume Boyé* and I am currently attending my last year of master's degree at [EPFL](https://epfl.ch).
+This is my portfolio website that showcase my blog, my projects and also display my work experience and my skills. If you want to see more about me, you can check my [CV](/cv/).
+
+<!--My name is *Guillaume Boyé* and I am currently attending my last year of master's degree at [EPFL](https://epfl.ch).-->
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
