@@ -17,28 +17,38 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "LiGHT (Laboratory for Intelligent Global Health & Humanitarian Response Technologies)",
+      "position": "Researcher",
+      "url": "https://www.light-laboratory.org/",
+      "startDate": "2023-11-15",
+      "endDate": "2025-01-10",
+      "summary": "Working on Meditron, a 8B/70B AI model finetuned for medical applications on large-scale clusters.",
+      "highlights": ["AI", "LLM"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-        "Men of the year 2014 by Time magazine"
-      ]
+      "name": "Work at ISL (Institut franco-germanic de Saint-Louis)",
+      "position": "Internship",
+      "url": "https://www.isl.eu/",
+      "startDate": "2025-02-12",
+      "endDate": "2025-08-15",
+      "summary": "Working in the field of vision AI on embedded systems for military applications.",
+      "highlights": ["AI", "Vision"]
+    },
+    {
+      "name": "Computer Architecture teacher assistant at EPFL",
+      "position": "Teaching Assistant",
+      "startDate": "2021-01-01",
+      "endDate": "2021-06-01",
+      "summary": "Assisting in teaching computer architecture courses at EPFL.",
+      "highlights": ["Computer Architecture", "Teaching", "Hardware Synthesis"]
+    },
+    {
+      "name": "Parallelism & Concurrency teacher assistant at EPFL",
+      "position": "Teaching Assistant",
+      "startDate": "2021-09-01",
+      "endDate": "2022-02-01",
+      "summary": "Assisting in teaching parallelism and concurrency courses at EPFL.",
+      "highlights": ["Parallelism & Concurrency", "Teaching"]
     }
   ],
   "education": [
